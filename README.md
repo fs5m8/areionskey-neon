@@ -1,2 +1,4 @@
-# areionskey-neon
-A Distributed Microblogging Platform of ActivityPub
+<div align="center">
+	<h1>Areionskey Neon</h1>
+	🏇 Areionskey is a distributed microblogging platform.
+</div>
